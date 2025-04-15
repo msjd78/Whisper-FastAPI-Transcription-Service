@@ -26,7 +26,7 @@ A high-performance, production-ready speech-to-text API service based on the fas
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/iammuhammadnoumankhan/Whisper-FastAPI-Transcription-Service.git
+   git clone https://github.com/msjd78/Whisper-FastAPI-Transcription-Service.git
    cd Whisper-FastAPI-Transcription-Service
    ```
 
